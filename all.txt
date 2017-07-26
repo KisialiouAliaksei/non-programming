@@ -1,0 +1,293 @@
+fulfills	выполняет	
+purpose	цель	
+invoke	взывать, призывать	
+provide	предостовлять	
+benefits	выгода	
+simplify	упрощать	
+distributed&nbsp;	распределенный	
+solving	решение	
+rather	скорее, довольно, вернее,лучше	
+responsible	ответственность	
+managment	управление	
+routine	рутина, распорядок, шаблон&nbsp;	
+thinner	разбавитель	
+particularly	особенно, в частности	
+existing&nbsp;	существующий, имеющийся	
+compliant&nbsp;	уступчивый, податливый	
+consider&nbsp;	рассматривать, учитывать, считать	
+requirements	требования	
+scalable	маштабируемый	
+accommodate&nbsp;	вмещать, приспосабливать, согласовывать	
+growing&nbsp;	рост	
+distribute&nbsp;	распространять, распределить	
+remain&nbsp;	оставаться, придерживаться	
+transparent&nbsp;	прозрачный, понятный	
+ensure	обеспечивать, гарантировать	
+integrity	целостность	
+concurrent&nbsp;	парралельный, совпадающий	
+variety&nbsp;	разообразие, множество	
+thin	тонкий, худой	
+summarizes&nbsp;	обобщаются	
+Performs&nbsp;	выступает, выполняет, совершать	
+shielding&nbsp;	защищать, экранировать	
+complexity&nbsp;	сложность	
+executing&nbsp;	выполнять, исполнять	
+persistent	стойкий, постоянный, настойчивый	
+consists&nbsp;	состоит	
+instance&nbsp;	пример, образец, требования, партия, ссылаться	
+interacts&nbsp;	взаимодействует	
+conversational&nbsp;	диалоговый	
+suggests	предпологает	
+similar&nbsp;	аналогичный, подобный, похожий	
+appears&nbsp;	появляется, казаться	
+retained&nbsp;	сохраняется	
+disappears	исчезает, пропадает	
+maintain&nbsp;	поддерживать, сохранять	
+held&nbsp;	ручной, занимать,держать	
+Except&nbsp;	кроме, за исключением	
+allow	позволять	
+assign&nbsp;	назначать, присваивать	
+offer&nbsp;	предлагает, предложение	
+require&nbsp;	требовать	
+circumstances&nbsp;	обстоятельства, условия	
+opposed&nbsp;	против, противоположный. враждебный	
+respond&nbsp;	реагировать, отвечать, удовлетворять	
+instantiated&nbsp;	инстанцирован, подтверждать	
+appropriate&nbsp;	подходящее, присваивать, соответствующий	
+represents	представляет, отражает	
+specific&nbsp;	конкретный, определенный	
+mediates&nbsp;	посредничает	
+presenting&nbsp;	представление	
+flow&nbsp;	поток, течь,течение	
+improve&nbsp;	улучшать, совершенствовать	
+performance	производительность, эффективность, представление	
+traits	черты, особенность	
+access	доступ, проход, подход	
+receives&nbsp;	получать, принимать	
+instead&nbsp;	вместо	
+visible&nbsp;	видимый, очевидный	
+respects	почтение	
+resembles&nbsp;	походит на, иметь сходство	
+handling&nbsp;	обслуживание, обработка, обращение	
+destination&nbsp;	место назначения	
+receipt&nbsp;	получение,квитанция	
+relatively&nbsp;	относительно, сравнительно	
+directly&nbsp;	непосредственно, прямо&nbsp;	
+aware	знать, осведомленный	
+accordance&nbsp;	<div>согласие</div>	
+handles&nbsp;	ручка, обращаться, управлять	
+rolled back	откат	
+avoid&nbsp;	избежать	
+tying up	связывание	
+either&nbsp;	либо, любой, тоже, также	
+exposes&nbsp;	подвергает, раскрывает	
+obtains&nbsp;	получает, приобретает	
+explicit&nbsp;	явный, точный	
+explicit lookup	явный поиск	
+Tight&nbsp;	туго, плотно,крепко	
+loose&nbsp;	свободный, широкий	
+coupling&nbsp;	связь, соединение	
+related&nbsp;	связанный	
+Owing&nbsp;	благодаря, должный	
+decision&nbsp;	решение	
+demands&nbsp;	требовать, нуждаться, спрос	
+uncommon	редкий, удивительный	
+explicitly&nbsp;	ясно, точно	
+defines&nbsp;	определяет,устанавливает	
+objective	задача, цель, объект	
+guidance	руководство, управление	
+proper	правильный, подходящий	
+conduct	поведение, руководство, вести	
+exist	существовать, быть	
+conscious	сознательный, здравый, сознание	
+bourdaries	границы, черта	
+dealt	иметь дело, бороться, общаться	
+on-going	на постоянной основе, постоянный, непрерывный	
+intercepted	перехвачен, прерван	
+investigation	раследование, иследование	
+compromised	скомпрометированы, идти на компромисс, подвергать риску	
+encryption	шифрование	
+digital	цифровой	
+reconsider	пересматривать, реконструировать	
+via	через, при помощи	
+lends	придает, предостовляет	
+appear	появиться, казаться, предстать	
+authentic	подлинный, достоверный	
+stationery	канцтовары	
+entire	весь,целый	
+meaningful	значимый, выразительный	
+respect	уважение, отношение, уважать	
+suspicious	подозрительный, сомнительный	
+attachment	прикрепление, присоединение	
+hesitate	колебаться, стесняться	
+expecting	ожидая, ждать, надеяться	
+extension	расширение, продление, развитие	
+cause	причина, дело, повод, мотив	
+congestion	перегруженность, скопление, затор, куча	
+interfere	вмешиваться, мешать, сталкиваться	
+unsolicited	незатребованный	
+agenda	повестка дня	
+effort	усилие, попытка, старание	
+defines	определяет, устанавливает, обозначать	
+restore	восстановить, возобновить	
+precautionary	предупредительный	
+measures	меры, измерять, оценивать	
+vulnerable	уязвимый, ранимый	
+victim	жертва, потерпевший	
+theft	кража, воровство	
+prohibit	запрещать, мешать	
+unexpected	неожиданный, внезапный	
+additionally	дополнительно, кроме того	
+awareness	осознание, осведомленность	
+verbal	словесный, устный	
+disclosure	раскрытие, обнаружение, разоблачение	
+approval	утверждение, согласие, одобрение	
+approach	подход, доступ, подходить	
+involved	участвует, вовлеченный, замешанный	
+coverage	покрытие, охват, зона действия	
+exactly	в точку, точно, именно	
+exchange	обмен, обменивать	
+relative	относительный, сравнительный	
+encourage	поощрять, ободрять, поддерживать	
+purposeful	целенаправленный, целеустремленный	
+opportunity	возможность, удобный случай	
+below	ниже, внизу, в дальнейшем	
+avoid	избегать, уклоняться	
+passion	страсть, увлечение, азарт	
+pass	проходить, передача, проход, пропуск	
+lean	опираться, наклоняться, худой, тощий, наклон	
+robust	крепкий, сильный, здравый, твердый	
+agile	проворный, подвижный, живой	
+fluent	беглый, плавный, текучий	
+broadcasted	в эфире	
+participate	принимать участие, участвовать	
+engagement	обязательства, помолвка	
+require	требовать, нуждаться	
+apology	извинения, оправдания	
+explain	объяснять	
+influence	влияние	
+environment	окружающая среда, контекст, состояние	
+essential	сущестыенный, ценный, основной	
+expose	подвергать, разоблачать, раскрывать	
+maintain	поддерживать, сохранять, содержать, обслуживать	
+amended	вносить поправки, исправлять, улучшать	
+amend	изменить, исправлять	
+reliable	надежный, достоверный	
+broadcasting	вещание, трансляция	
+constaints	ограничения, скованность	
+valuable	ценный, полезный	
+vocabulary	запас слов, словарь, лексикон	
+mature	зрелый, созреть, взрослеть	
+similar	аналогичный, подобный, похожий	
+however	однако, впрочем, тем не менее	
+achieve	достигать, выполнять, добиваться	
+serve	обслуживать, служить, подавать	
+gate	ворота, затвор,вход	
+peer	вглядываться, выглядывать, равный	
+reveal	выявить, раскрывать, откровение, разоблачение	
+represent	представлять. изображать	
+release	выпуск, версия, освобождение, выпускать	
+toggles	переключать, переключатель, флаг	
+eventual	возможный, конечный	
+consider	рассматривать, учитывать, полагать	
+sequence	последовательность, ряд	
+handy	удобный, портативный	
+able	в состоянии	
+legacy	наследие	
+eliminated	устранен, усключенный	
+<!--StartFragment-->restriction<!--EndFragment-->	ограничения	
+verbose	подробный	
+truncate	усекать	
+exclude	исключает	
+sensitive	чувствительный, деликатный	
+hover	зависать	
+impact	влияние	
+Thus	таким образом	
+arranged	расположены, устроены	
+mutually	взаимно, обоюдно	
+case	случай	
+increase	увеличение	
+ambiguity	неодназначность, двусмысленность	
+above	выше, ранее	
+bound&nbsp;	связанный, направляющий,граница, предел	
+applied to	применительно к, приложенный	
+dispatch&nbsp;	отправка, отсылка, посылать	
+resolved&nbsp;	решены	
+resolve	решение, разрешать, решать	
+implicitly&nbsp;	безоговорочно, косвенным образом	
+implicitely	безоговорочно, без колебаний, косвенным образом	
+desirable	желательный	
+lacks	не хватает, недостаток	
+explanations&nbsp;	объяснения	
+further	далее, в дальнейшем, продвигать	
+tackles&nbsp;	принадлежности, схватить	
+angles	углы, сторона	
+quote&nbsp;	цитата, кавычки, ссылаться	
+Hopefully&nbsp;	с надеждой	
+fetch	получать	
+assembly&nbsp;	сборка, собрание, монтаж	
+Overall&nbsp;	в общем и целом, общий, полный, полностью	
+pipeline&nbsp;	трубопровод	
+rate&nbsp;	скорость, степень, цена, норма	
+frequency&nbsp;	частота	
+respectively	соответственно, в указанном порядке	
+magnitude	величина, размеры	
+stalled	застопорился, глохнуть, уклоняться	
+simultaneously&nbsp;	одновременно	
+assumption&nbsp;	предположения, допущения	
+speculative&nbsp;	теоретический, испытывающий	
+coherent&nbsp;	последовательный, связный, ясный	
+shifting	переключение, меняющийся	
+forbidden	запрещено	
+decent&nbsp;	порядочный, славный подходящий	
+Aspiring	стремящийся	
+exposure&nbsp;	воздействие, подвергание	
+due	в связи, должное, точно, надлежащий	
+advent&nbsp;	приход, пришествие	
+merely&nbsp;	просто, только, единственно	
+grid&nbsp;	сетка, решетка	
+capable&nbsp;	способный, допускающий	
+&nbsp;high-throughput	высокая пропускная способность	
+tuples&nbsp;	кортежи	
+fault-tolerant	отказоустойчивый	
+rely&nbsp;	полагаться	
+standalone&nbsp;	автономный	
+properly	должным образом	
+ingest	усвоить, глотать	
+implicit&nbsp;	неявный, скрытый	
+clause&nbsp;	условие	
+complexity	сложность	
+<div>permitted</div>	разрешенный	
+augmented	дополненная	
+veracity	правдивость, достоверность, точность	
+velocity	скорость, быстрота	
+scale	масштаб	
+bring	приносить,приводить,доводить	
+capricious	капризный	
+claim	требовать, требование	
+rose-colored glasses	розовые очки	
+laws	законы	
+excitement	волнение	
+preferably&nbsp;	предпочтительно	
+commonly&nbsp;	обычно, обыкновенно, дешево	
+inexpensive&nbsp;	недорогой, дешевый	
+internal&nbsp;	внутренний	
+ingesting	глототать, проголатывать, усваивать	
+shape	форма, вид	
+partition &nbsp;	раздел, разделение, часть	
+feasible	выполнимый, возможный, вероятный	
+anticipated&nbsp;	ожидаемый	
+faithfully&nbsp;	честно, верно	
+quoted&nbsp;	цитировать, ссылаться, &nbsp;назначить цену	
+retrieved&nbsp;	извлекаться, вернуть, находить	
+certain&nbsp;	определенный, некоторый, верный, факт	
+In any case	в любом случае	
+whenever&nbsp;	всякий раз когда, когды бы ни	
+discrepancies&nbsp;	расхождения, несоответсвия, противоречия	
+particular&nbsp;	конкретный, особый, отдельный, особенный	
+dedicated&nbsp;	преданный, убежденный	
+enhancing&nbsp;	повышение, усиливать, усовершенствовать	
+Otherwise	в противном случае, иначе, иным образом, иной, другой	
+currently&nbsp;	в данный момент, теперь	
+quite&nbsp;	довольно, вполне, совсем, очень, полностью	
+whatever&nbsp;	без разницы, любой, какой бы, что бы ни, какой либо	
